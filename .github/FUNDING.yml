@@ -1,18 +1,37 @@
-# Funding configuration for Awesome Free Developer Resources
+# Funding Configuration
+# Project: Awesome Free Developer Resources
 # Repository: https://github.com/Sujon-Ahmed/free-developer-resources
+# Maintainer: Sujon-Ahmed
+#
+# Support the development and maintenance of this
+# free and open developer resource directory.
+#
+# Enable only verified sponsorship accounts.
+# Remove the leading # to activate a provider.
 
 # GitHub Sponsors
-# Uncomment only after enabling GitHub Sponsors.
+# Requires an approved GitHub Sponsors account.
 # github: Sujon-Ahmed
 
-# Other supported sponsorship platforms
-# patreon:
-# open_collective:
-# ko_fi:
-# liberapay:
-# polar:
-# buy_me_a_coffee:
+# Patreon
+patreon: sujonahmed5284
 
-# Custom sponsorship links
+# Open Collective
+# open_collective: YOUR_COLLECTIVE_NAME
+
+# Ko-fi
+# ko_fi: YOUR_KOFI_USERNAME
+
+# Liberapay
+# liberapay: YOUR_LIBERAPAY_USERNAME
+
+# Polar
+# polar: YOUR_POLAR_USERNAME
+
+# Buy Me a Coffee
+# buy_me_a_coffee: YOUR_USERNAME
+
+# Custom Donation Links
+# Add up to 4 verified sponsorship URLs.
 # custom:
 #   - https://your-donation-page.example
