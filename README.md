@@ -298,6 +298,7 @@
 | [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) | TypeScript fundamentals                  |
 | [JavaScript.info](https://javascript.info/)                                    | Modern JavaScript explanations           |
 | [Docker Getting Started](https://docs.docker.com/get-started/)                 | Containers from beginner to intermediate |
+| [agent-qa testing workflow](https://vostride.com/docs/agent-qa/guides/coding-agent-workflow) | Free guide to running app tests with a coding agent, reviewing evidence, diagnosing failures and rerunning checks; runtime model and service costs vary. |
 
 <a id="roadmaps-practice"></a>
 
