@@ -56,6 +56,7 @@
 | [LangChain](https://python.langchain.com/)                 | Build language-model applications         | Open source                   |
 | [LangGraph](https://langchain-ai.github.io/langgraph/)     | Agent workflows and orchestration         | Open source                   |
 | [Model Context Protocol](https://modelcontextprotocol.io/) | Connect AI applications to external tools | Open standard                 |
+| [GetYouTubeTranscript](https://getyoutubetranscript.com/)  | YouTube transcripts for LLM workflows     | Free daily use / paid credits |
 
 <a id="developer-productivity"></a>
 
