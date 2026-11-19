@@ -146,6 +146,7 @@
 | [Dribbble](https://dribbble.com/)         | UI and illustration inspiration           |
 | [Coolors](https://coolors.co/)            | Color palette generation                  |
 | [CSS Gradient](https://cssgradient.io/)   | CSS gradient generator                    |
+| [PixelArtHive](https://pixelarthive.com/) | Free browser-local image-to-pixel-art conversion and pixel art upscaling |
 
 <a id="ui-frameworks-components"></a>
 
