@@ -147,6 +147,7 @@
 | [Coolors](https://coolors.co/)            | Color palette generation                  |
 | [CSS Gradient](https://cssgradient.io/)   | CSS gradient generator                    |
 | [PixelArtHive](https://pixelarthive.com/) | Free browser-local image-to-pixel-art conversion and pixel art upscaling |
+| [DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio/) | Free native design app that opens and saves .fig files, with a local MCP server for coding agents |
 
 <a id="ui-frameworks-components"></a>
 
