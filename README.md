@@ -314,6 +314,7 @@
 | [Exercism](https://exercism.org/)                   | Coding practice and mentorship                      |
 | [Codewars](https://www.codewars.com/)               | Coding challenges                                   |
 | [LeetCode](https://leetcode.com/)                   | Algorithms and interview preparation; free problems |
+| [Aethel](https://aethel.pro/practice) | AI interview practice for your developer role and level, with a quick check on each answer; free, no account |
 | [The Odin Project](https://www.theodinproject.com/) | Project-based web development curriculum            |
 
 <a id="free-courses-books"></a>
